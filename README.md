@@ -3,7 +3,7 @@
 ### About
 
 KADOKAWAドワンゴ情報工科学院<br>
-2年次 IT総合コース システムエンジニア専攻<br>
+3年次 IT総合コース システムエンジニア専攻<br>
 浅野　沙綺<br><br>
 Webアプリ開発を中心に学習中<br>
 Laravel × React を用いた **CRUDアプリの設計・実装経験あり**<br><br>
