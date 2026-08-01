@@ -62,4 +62,4 @@ Laravel × React を用いた **CRUDアプリの設計・実装経験あり**<br
 ### Quiz App（開発中）
 - Next.js 16 (App Router) / React 19 / TypeScript / Prisma / PostgreSQL / Docker
 - 友達と対戦できる、問題を自作可能なクイズゲームアプリ。
-- URL: quiz-game-asano.vercel.app
+- URL: [Google](https://quiz-game-asano.vercel.app/)
